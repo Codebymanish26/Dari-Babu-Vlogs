@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Live Web Showcase (Direct Open)
-👉 **[View the Live Portal](https://codebymanish26.github.io/Dari-Babu-Vlogs/)**
+👉 **[View the Live Portal](https://spghimire26.github.io/Dari-Babu-Vlogs/)**
 
 Explore every project visually with live previews, responsive desktop/tablet/mobile testing, and direct links to inspect code.
 
@@ -29,7 +29,7 @@ Explore every project visually with live previews, responsive desktop/tablet/mob
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/Codebymanish26/Dari-Babu-Vlogs.git
+   git clone https://github.com/spghimire26/Dari-Babu-Vlogs.git
    cd Dari-Babu-Vlogs
    ```
 2. **Open the Showcase Hub:**
@@ -43,13 +43,13 @@ Explore every project visually with live previews, responsive desktop/tablet/mob
 
 ## ⚙️ Enabling GitHub Pages (For Direct Browser Open Online)
 
-1. Open **[Repository Settings](https://github.com/Codebymanish26/Dari-Babu-Vlogs/settings/pages)** on GitHub.
+1. Open **[Repository Settings](https://github.com/spghimire26/Dari-Babu-Vlogs/settings/pages)** on GitHub.
 2. Under **Build and deployment** > **Branch**:
    * Select `main`.
    * Folder: `/(root)`.
    * Click **Save**.
 3. In 1–2 minutes, your website is live at:
-   `https://codebymanish26.github.io/Dari-Babu-Vlogs/`
+   `https://spghimire26.github.io/Dari-Babu-Vlogs/`
 
 ---
 
