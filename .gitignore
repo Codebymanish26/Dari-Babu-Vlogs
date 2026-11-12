@@ -1,0 +1,20 @@
+# OS / Editor Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Dependencies (if installed in React subprojects)
+node_modules/
+.pnp
+.pnp.js
+
+# Production builds
+build/
+dist/
+
+# Files > 100 MB (Exceeds GitHub's single-file upload limit)
+Backend/MEAN - Handwritten Notess.pdf
+Frontend/Master Html to React/Hand Written Notes All.pdf
+Frontend/Master Html to React/Master Frontend Ebook.pdf
+Master Python with Bonus/Master Python/Python Handwritten notes.pdf
