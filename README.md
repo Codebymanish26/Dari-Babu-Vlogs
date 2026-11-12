@@ -53,4 +53,4 @@ Explore every project visually with live previews, responsive desktop/tablet/mob
 
 ---
 
-*Curated with ❤️ by [CodeByManish](https://github.com/Codebymanish26)*
+*Curated with ❤️ by [spghimire](https://spghimire.com.np)*

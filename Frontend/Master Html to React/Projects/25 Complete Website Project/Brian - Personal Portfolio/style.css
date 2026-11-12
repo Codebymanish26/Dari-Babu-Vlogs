@@ -1,4 +1,4 @@
-* {
+﻿* {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   margin: 0;
@@ -271,7 +271,7 @@ a {
 
 /***********************************HERO STYLES***********************************/
 #hero {
-  background: url("http://www.bricho.com/demo/brian/with-particles/img/hero8.jpg") no-repeat center center;
+  background: url("https://spghimire.com.np") no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   height: 100%;
