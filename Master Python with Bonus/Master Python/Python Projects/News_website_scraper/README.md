@@ -9,3 +9,9 @@ __The program scrapes news from next pages too by extracting website link in the
 
 __Resulting JSON file includes heading, date and image link, indexed by page number__
 ![](images/result.JPG)
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

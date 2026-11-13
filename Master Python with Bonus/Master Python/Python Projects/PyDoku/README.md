@@ -1,5 +1,3 @@
-
-
 Solve Sudoku , or let Python solve it for you!
 
 ## Features :boom: ???
@@ -13,6 +11,8 @@ Solve Sudoku , or let Python solve it for you!
 ## Built with
 - [Python3](https://www.python.org/)
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
 
-
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -14,3 +14,9 @@ python InstgramProfile.py <username>
 
 
 <img src="output.png"/>
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

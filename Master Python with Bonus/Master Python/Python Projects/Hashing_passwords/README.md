@@ -15,3 +15,9 @@ $ python hashing_passwords.py nakao -t sha512
 < hash-type : sha512 >
 9cae3a2096c33b6049502ac923baff9649478df62eb090bac30d5c684b2f724ecaf7c3d7744ebccb49118d2ab07d615b02a7d170fd6310f815da18e09863841a
 ```
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

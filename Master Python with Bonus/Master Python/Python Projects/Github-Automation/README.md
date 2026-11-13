@@ -37,3 +37,9 @@ To run the script use following commands
 ```python
 10 ignoredirs = ['.git' , '.idea' , '__pycache__' , 'node_modules' , 'custom_folder']
 ```
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

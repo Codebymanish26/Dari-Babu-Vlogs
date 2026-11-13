@@ -16,3 +16,8 @@ To use the package, just check the test.py file.
 Depending upon the use of the script, it can generate a json file for the pagespeed results, and 
 it also returns the regular response object.
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

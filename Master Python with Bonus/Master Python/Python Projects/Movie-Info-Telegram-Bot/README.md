@@ -24,5 +24,8 @@ A telegram Bot made using python which scrapes IMDb website and has the followin
 6. Type /name <movie_name> to get the genre and Rating of the movie. The bot replies with atmost three results.
 7. Type /genre \<genre> to get a list of movies and TV shows belonging to that genres
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
 
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

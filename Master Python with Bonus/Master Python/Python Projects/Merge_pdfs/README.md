@@ -10,3 +10,8 @@ Run - "pip install PyPDF2"
 
 It can be executed by running "python merge_pdfs.py"
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

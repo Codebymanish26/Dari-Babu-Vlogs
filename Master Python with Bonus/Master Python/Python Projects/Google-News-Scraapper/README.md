@@ -8,3 +8,9 @@ A python Automation script that helps to scrape the google news articles. The ke
 
 ### Running the Script
 `python3 app.py`
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

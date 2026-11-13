@@ -85,3 +85,8 @@ After creating the App click on **Keys and tokens** option you will observe Cons
 
     <img src="img/output-2.png" alt="output2" style="zoom: 33%;" />
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

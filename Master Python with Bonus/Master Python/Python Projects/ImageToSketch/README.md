@@ -16,6 +16,8 @@ Menu driven script- takes either the path of the image from the user or captures
 7. Enter the path or the filename as asked.
 8. For the final product go to /sketches/<filename>/<filename>(final).png
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
 
-
- 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -1,5 +1,3 @@
-
-
 ## Email GUI Functionalities : 🚀
 
 - **To send email the less security option of sender's email must be turned on.**
@@ -29,4 +27,8 @@
 - smtplib
 - tkinter
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

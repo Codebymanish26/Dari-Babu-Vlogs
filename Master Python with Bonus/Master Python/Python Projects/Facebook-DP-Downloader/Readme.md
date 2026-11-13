@@ -13,3 +13,8 @@ Download the profile picture of any public profile on Facebook by its Facebook i
 * User-id-4 is for the Facebook id of [Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg)
 <br><br>
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -18,3 +18,8 @@ Run the python code
 * Subtracting the noise spectral mean from input spectral, and istft (Inverse Short-Time Fourier Transform)
 * Finally getting an audio file with reduction in the background noise at a much higher extent
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

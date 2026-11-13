@@ -15,5 +15,8 @@ A GUI downloader used to download Facebook video by providing URL of the Post
 
 Downloaded video you desired in the same directory of the script.
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
 
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

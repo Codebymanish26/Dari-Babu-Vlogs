@@ -11,3 +11,9 @@ python extract_zip_files.py -l <Your zip file>
 Example: 
 
 python extract_zip_files.py -l Amazing_Spiderman_subtitles.zip
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

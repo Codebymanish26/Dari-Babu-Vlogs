@@ -1,4 +1,3 @@
-
 ## Hardware Requirements:
 
 #### 1.Raspberry Pi (Any Version Will Work)
@@ -86,3 +85,9 @@ python train.py
 ```
 python main.py
 ```
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

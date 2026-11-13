@@ -13,4 +13,10 @@ Install pandas: `pip install pandas`
 Put all the CSVs which are to be merged in a directory containing the script. 
 either run it from your code editor or IDE or type `python merge_csv_files.py` in your command line.
 
-The final output would be a `combined_csv.csv` file in the same directory. 
+The final output would be a `combined_csv.csv` file in the same directory.
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -1,5 +1,5 @@
 # Linkedin My_Connections Scrapper
-# Written by XZANATOL
+# Written by spghimire
 from selenium.webdriver.common.action_chains import ActionChains
 from optparse import OptionParser
 from selenium import webdriver

@@ -1,4 +1,3 @@
-
 <h1 align="center"> GoogleClassroom-Bot</h1>
 <p align="center"><br>
 This bot joins your classes for you on time automatically using your google classroom schedule and account credentials.<br></p>
@@ -110,4 +109,10 @@ This bot joins your classes for you on time automatically using your google clas
 ## Troubleshooting
 1. Google account must not be already logged in.
 2. `schedule.csv` must contain the exact course names.
-3. Slow internet connection may cause program to crash.  
+3. Slow internet connection may cause program to crash.
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

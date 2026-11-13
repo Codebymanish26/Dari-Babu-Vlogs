@@ -15,3 +15,9 @@ And then You'll get the following information
 Download Speed
 Upload Speed
 Ping
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

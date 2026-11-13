@@ -21,3 +21,9 @@ The string <kbd>01234567</kbd>.
 
 * `string.punctuation`
 	- String of ASCII characters which are considered punctuation characters in the C locale: `!"#$%&'()*+,-./:;<=>?@[\]^_{|}~`
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

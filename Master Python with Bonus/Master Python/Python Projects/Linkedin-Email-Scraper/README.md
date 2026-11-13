@@ -10,3 +10,9 @@
 1. Replace the values of the URL, email and password variables in the code with your own data
 2. Either hit **run** if your IDE has the option or just type in `python main.py` in the terminal. 
 3. The names and corresponding email address scraped from the post should appear in the **emails.csv** file.
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

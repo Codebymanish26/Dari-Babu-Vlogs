@@ -22,3 +22,9 @@ pip install -r requirements.txt
 ->Type the following command:
 python fetch_http_status_code.py
 ->A message asking URL/API would be displayed : Enter any url of choice and check the output
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -19,4 +19,8 @@ If you are using some other web browser, replace ‘chrome’ by the name of tha
 Modules and tools used:
 Selenium, getpass and time
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

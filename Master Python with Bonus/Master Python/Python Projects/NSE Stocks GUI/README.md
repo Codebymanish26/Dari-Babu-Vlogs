@@ -26,6 +26,8 @@ python3 stocks.py
 
 depending upon the python version. Make sure that you are running the command from the same virtual environment in which the required modules are installed.
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
 
-
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

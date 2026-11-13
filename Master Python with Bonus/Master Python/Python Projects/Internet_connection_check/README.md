@@ -1,14 +1,17 @@
 # Internet Connection Check
-<!--Remove the below lines and add yours -->
+
 A small python script to check internet connectivity.
 
 ### Prerequisites
-<!--Remove the below lines and add yours -->
+
 Python3
 
 ### How to run the script
-<!--Remove the below lines and add yours -->
+
 > python3 internet_connection_check.py
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
 
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

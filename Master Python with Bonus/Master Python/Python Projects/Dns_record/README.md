@@ -19,3 +19,9 @@ python dns_record.py
 3.It will ask for a website:
 
 You can give any website name for example: google.com
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

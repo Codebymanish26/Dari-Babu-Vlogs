@@ -7,3 +7,9 @@ This Project will take an image and add desired watermark to it.
 ## About this Project
 
 This project uses PIL module and OS module to add the watermark. PIL, the Python Imaging Library, is an open source libary that enables the users to add, manipulate and save different file formats.
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

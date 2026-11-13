@@ -14,3 +14,9 @@ $ pip install progressbar
 ``` 
 $ python random_email_generator.py
 ```
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

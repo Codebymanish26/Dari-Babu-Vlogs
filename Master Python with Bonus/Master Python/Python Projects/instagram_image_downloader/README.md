@@ -70,5 +70,8 @@ webdriver.get('https://www.instagram.com/virat.kohli/')
 
 ### 6. Result will be in insta folder or you can change folder name too
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
 
-	
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

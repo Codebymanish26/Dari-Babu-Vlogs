@@ -18,4 +18,8 @@ The final result will be printed on the screen as:
 Hello Python World
 ```
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

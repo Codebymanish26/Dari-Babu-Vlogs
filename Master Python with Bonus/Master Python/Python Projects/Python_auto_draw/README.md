@@ -1,14 +1,12 @@
-
-
 ### *DEMO*:
 
 
 ### To run it on your PC:
 * Make sure you have Python 3.7.x or Python 3.8.x installed, if not, click [here](https://www.python.org/downloads/) to install! 
 * Install PyAutoGUI: `pip install pyautogui`
-* Clone this into your Desktop: `git clone "https://github.com/tusharnankani/PythonAutoDraw"`
+* Clone this into your Desktop: `git clone "https://github.com/Codebymanish26/python-auto-draw"`
 * Open Command Line or Terminal 
-* Change directory to a respective game: `cd "Desktop\PythonAutoDraw"`
+* Change directory to a respective game: `cd "python-auto-draw"`
 * Run: `python python-auto-draw.py`
 
 
@@ -43,4 +41,8 @@
 
 `>>> pyautogui.alert('This is the message to display.')` # Make an alert box appear and pause the program until OK is clicked.<br>
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

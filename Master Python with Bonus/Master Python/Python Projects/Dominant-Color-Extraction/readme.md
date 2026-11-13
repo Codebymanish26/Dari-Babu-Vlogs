@@ -28,6 +28,8 @@
 3. Run all the cells of Dominant color Extraction.ipynb
 4. Output :Analyse the Dominant color in Image<br>
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
 
-
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -18,3 +18,9 @@ A simple program which checks for Email Address Validity in three simple checks
 - socket
 
 ---------------------------------------------------------------------
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

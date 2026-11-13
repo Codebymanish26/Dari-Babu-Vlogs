@@ -1,13 +1,17 @@
 # Get Ipaddress and Hostname of Website
-<!--Remove the below lines and add yours -->
+
 Get the ip address and hostname of a website
 
 ### Prerequisites
-<!--Remove the below lines and add yours -->
+
 None
 
 ### How to run the script
-<!--Remove the below lines and add yours -->
+
 Execute `python3 Hostname_IPaddress.py`
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

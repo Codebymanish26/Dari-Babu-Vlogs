@@ -35,3 +35,8 @@ Using the skills scrapper mode will add the skills of each profile to that colum
 
 The project was built as a contribution during [GSSOC'21](https://gssoc.girlscript.tech/).
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

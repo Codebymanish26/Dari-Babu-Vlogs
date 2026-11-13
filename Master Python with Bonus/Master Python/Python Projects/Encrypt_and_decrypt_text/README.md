@@ -18,3 +18,8 @@ python aes_encode.py "hello world"
 An encrypted file (`encrypted.bin`) will be generated
 when the program has finished running.
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

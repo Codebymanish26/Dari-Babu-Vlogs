@@ -6,3 +6,9 @@
 
 ### How to run the script
   'cd' to the directory that contains the script and type "python3 EasyVideoPlayer.py". When you are done with the video, use "keyboard interrupt" (Ctrl + C) to exit the player.
+
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

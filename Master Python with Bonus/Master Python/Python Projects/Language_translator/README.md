@@ -31,7 +31,10 @@ Execute `python3 python translator.py`
 | ru       |       Russian       |	
 | ar       |       Arabic       |	
 | zh       |       Chinese       |	
-| es       |       Spanish       |	
+| es       |       Spanish       |
 
+## Author
+Developed by [spghimire](https://github.com/Codebymanish26).
 
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
